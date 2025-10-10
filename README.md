@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Web Developer with over 5 years of experience working with both product-based and service-based initiatives and driving the
+Yes, I am a web developer with over 5 years of experience working with both product-based and service-based initiatives and driving the
 
 creation of responsive and user-centric web applications. Expertise in ReactJS, JavaScript empowers a seamless user experience
 
