@@ -18,7 +18,7 @@ technologies, ensuring impactful contributions to web and mobile development ini
 * 🖥️  See my portfolio at [neverendingweb](http://sagar-1998.github.io/portfolio/)
 * ✉️  You can contact me at [sagarparaswal5@gmail.com](mailto:sagarparaswal5@gmail.com)
 * 🚀  I'm currently working on [TelecomApp](http://wref.awarex.com)
-* 🧠  I'm currently learning Backend Technologies NodeJS -> SQL -> MongoDB -> GraphQL -> RestAPI
+* 🧠  I'm currently learning Backend Technologies NodeJS -> RestAPI -> GraphQL -> MongoDB -> SQL -> PostgreSQL
 * 👥  I'm looking to collaborate on Web Projects
 * 💬  Eager to learn more about tech. Would love to read good books and blogs if you recommend.
 
